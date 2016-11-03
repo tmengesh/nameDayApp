@@ -230,7 +230,7 @@ namespace nameDayApp
 
     }
 
-    //This is how you define new Esceptions
+   
     class InvalidFormat : System.Exception
     {
         public InvalidFormat(string message) : base(message)
