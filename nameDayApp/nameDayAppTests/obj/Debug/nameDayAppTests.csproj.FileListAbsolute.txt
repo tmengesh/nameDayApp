@@ -1,0 +1,9 @@
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\bin\Debug\nameDayAppTests.dll.config
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\bin\Debug\nameDayAppTests.dll
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\bin\Debug\nameDayAppTests.pdb
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\bin\Debug\nameDayApp.exe
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\bin\Debug\nameDayApp.pdb
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\obj\Debug\nameDayAppTests.csprojResolveAssemblyReference.cache
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\obj\Debug\nameDayAppTests.dll
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\obj\Debug\nameDayAppTests.pdb

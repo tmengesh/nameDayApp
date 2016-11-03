@@ -1,0 +1,18 @@
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\bin\Release\nameDayAppTests.dll.config
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\bin\Release\nameDayAppTests.dll
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\bin\Release\nameDayAppTests.pdb
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\bin\Release\nameDayApp.exe
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\bin\Release\nameDayApp.pdb
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\obj\Release\nameDayAppTests.csprojResolveAssemblyReference.cache
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\obj\Release\nameDayAppTests.dll
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayAppTests\obj\Release\nameDayAppTests.pdb
+C:\Users\Tewodros\Desktop\nameDayApp\nameDayApp\nameDayAppTests\bin\Release\nameDayAppTests.dll.config
+C:\Users\Tewodros\Desktop\nameDayApp\nameDayApp\nameDayAppTests\bin\Release\nameDayAppTests.dll
+C:\Users\Tewodros\Desktop\nameDayApp\nameDayApp\nameDayAppTests\bin\Release\nameDayAppTests.pdb
+C:\Users\Tewodros\Desktop\nameDayApp\nameDayApp\nameDayAppTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tewodros\Desktop\nameDayApp\nameDayApp\nameDayAppTests\bin\Release\nameDayApp.exe
+C:\Users\Tewodros\Desktop\nameDayApp\nameDayApp\nameDayAppTests\bin\Release\nameDayApp.pdb
+C:\Users\Tewodros\Desktop\nameDayApp\nameDayApp\nameDayAppTests\obj\Release\nameDayAppTests.csprojResolveAssemblyReference.cache
+C:\Users\Tewodros\Desktop\nameDayApp\nameDayApp\nameDayAppTests\obj\Release\nameDayAppTests.dll
+C:\Users\Tewodros\Desktop\nameDayApp\nameDayApp\nameDayAppTests\obj\Release\nameDayAppTests.pdb

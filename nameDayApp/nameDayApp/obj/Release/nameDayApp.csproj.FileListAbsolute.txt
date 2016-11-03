@@ -1,0 +1,11 @@
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayApp\bin\Release\nameDayApp.exe.config
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayApp\bin\Release\nameDayApp.exe
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayApp\bin\Release\nameDayApp.pdb
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayApp\obj\Release\nameDayApp.exe
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayApp\obj\Release\nameDayApp.pdb
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayApp\obj\Release\nameDayApp.csprojResolveAssemblyReference.cache
+C:\Users\Tewodros\Desktop\nameDayApp\nameDayApp\nameDayApp\bin\Release\nameDayApp.exe.config
+C:\Users\Tewodros\Desktop\nameDayApp\nameDayApp\nameDayApp\bin\Release\nameDayApp.exe
+C:\Users\Tewodros\Desktop\nameDayApp\nameDayApp\nameDayApp\bin\Release\nameDayApp.pdb
+C:\Users\Tewodros\Desktop\nameDayApp\nameDayApp\nameDayApp\obj\Release\nameDayApp.exe
+C:\Users\Tewodros\Desktop\nameDayApp\nameDayApp\nameDayApp\obj\Release\nameDayApp.pdb

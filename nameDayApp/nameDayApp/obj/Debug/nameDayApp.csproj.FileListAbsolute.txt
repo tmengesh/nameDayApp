@@ -1,0 +1,7 @@
+C:\Users\Tewodros\Desktop\cpp\nameDayApp\nameDayApp\bin\Debug\nameDayApp.exe.config
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayApp\bin\Debug\nameDayApp.exe.config
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayApp\bin\Debug\nameDayApp.exe
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayApp\bin\Debug\nameDayApp.pdb
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayApp\obj\Debug\nameDayApp.csprojResolveAssemblyReference.cache
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayApp\obj\Debug\nameDayApp.exe
+C:\Users\Tewodros\Desktop\kraft\nameDayApp (1)\nameDayApp\nameDayApp\obj\Debug\nameDayApp.pdb
